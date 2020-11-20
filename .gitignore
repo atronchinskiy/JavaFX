@@ -1,0 +1,7 @@
+/.idea/
+/target/
+/.settings/*
+/out/
+*.log
+*.db
+*.iml
