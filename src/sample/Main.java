@@ -16,6 +16,8 @@ public class Main extends Application {
 //        Line line = new Line(10,0,20,20);
 //        root.getChildrenUnmodifiable().add(line);
 //new comment 1
+//        new comment 2
+//        new comment 3 in local branch
         primaryStage.setTitle("Hello World");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
